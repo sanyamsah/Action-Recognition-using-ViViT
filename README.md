@@ -1,4 +1,4 @@
-# **Video Classification using Vision Transformer (ViViT) on UCF101 Dataset**  
+# **Video Classification using Video Vision Transformer (ViViT) on UCF101 Dataset**  
   
 - Implements a **ViViT-based** model for **video action classification**.  
 - Achieves **91% accuracy**, demonstrating the potential of transformer-based architectures in video recognition.  
